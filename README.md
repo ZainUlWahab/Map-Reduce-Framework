@@ -84,9 +84,6 @@ make
 - **File I/O**
 - **Synchronization Mechanisms**
 
-## **Memory Management**
-Memory cleanup is performed to ensure that no memory leaks occur during execution. The project implements RAII (Resource Acquisition Is Initialization) to manage resources effectively.
-
 ## **Future Enhancements**
 - Implement dynamic load balancing to improve efficiency.
 - Extend the framework to support distributed processing across multiple machines.
