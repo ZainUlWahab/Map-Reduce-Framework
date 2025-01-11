@@ -1,0 +1,5 @@
+1) First of all we need to go into our project directory
+2) Then we will write "make" to run our "makefile" to make our .o files.
+3) Then we will write "./main" to run our script.
+4) Optional: 
+    To change test cases, change "test1.txt" to "test2.txt" or "test3.txt" in main.cpp on line 26.
